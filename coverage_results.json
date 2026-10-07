@@ -1,0 +1,10 @@
+{
+  "method": "Python standard-library trace; executable lines, not branch coverage",
+  "executable_lines": 41,
+  "covered_lines": 41,
+  "line_coverage_percent": 100.0,
+  "missing_lines": [],
+  "tests_file_sha256": "33c436de06708df7f1baeb0d67f3f5b2950351b56acbf9ccc40a84d7fdfd580d",
+  "initial_tests_run": 18,
+  "initial_failures": 2
+}

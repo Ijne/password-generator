@@ -1,0 +1,23 @@
+test_batch_calls_generator_for_each_password (test_password_generator.PasswordGeneratorTests.test_batch_calls_generator_for_each_password) ... ok
+test_batch_defaults (test_password_generator.PasswordGeneratorTests.test_batch_defaults) ... ok
+test_batch_propagates_length_errors (test_password_generator.PasswordGeneratorTests.test_batch_propagates_length_errors) ... ok
+test_batch_rejects_invalid_count (test_password_generator.PasswordGeneratorTests.test_batch_rejects_invalid_count) ... ok
+test_empty_unicode_spaces_and_all_punctuation (test_password_generator.PasswordGeneratorTests.test_empty_unicode_spaces_and_all_punctuation) ... ok
+test_generated_default_password_is_strong (test_password_generator.PasswordGeneratorTests.test_generated_default_password_is_strong) ... ok
+test_generators_reject_non_integer_lengths (test_password_generator.PasswordGeneratorTests.test_generators_reject_non_integer_lengths) ... ok
+test_password_batch (test_password_generator.PasswordGeneratorTests.test_password_batch) ... ok
+test_password_default (test_password_generator.PasswordGeneratorTests.test_password_default) ... ok
+test_password_lengths_and_required_groups (test_password_generator.PasswordGeneratorTests.test_password_lengths_and_required_groups) ... ok
+test_password_random_source_and_shuffle (test_password_generator.PasswordGeneratorTests.test_password_random_source_and_shuffle) ... ok
+test_password_rejects_short_lengths (test_password_generator.PasswordGeneratorTests.test_password_rejects_short_lengths) ... ok
+test_pin_can_generate_both_digit_endpoints (test_password_generator.PasswordGeneratorTests.test_pin_can_generate_both_digit_endpoints) ... ok
+test_pin_keeps_leading_zero (test_password_generator.PasswordGeneratorTests.test_pin_keeps_leading_zero) ... ok
+test_pin_lengths_alphabet_and_default (test_password_generator.PasswordGeneratorTests.test_pin_lengths_alphabet_and_default) ... ok
+test_pin_rejects_short_lengths (test_password_generator.PasswordGeneratorTests.test_pin_rejects_short_lengths) ... ok
+test_strength_all_group_combinations_and_length_boundaries (test_password_generator.PasswordGeneratorTests.test_strength_all_group_combinations_and_length_boundaries) ... ok
+test_strength_functions_reject_non_strings (test_password_generator.PasswordGeneratorTests.test_strength_functions_reject_non_strings) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.200s
+
+OK
